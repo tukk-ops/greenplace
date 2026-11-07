@@ -1,0 +1,6 @@
+{
+  "name": "心耕樹境 - 習慣養成與善念日常",
+  "description": "融合生活習慣打卡、三好四給每日隨機任務、植物成長與心靈數據成長中心的自我提升應用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
